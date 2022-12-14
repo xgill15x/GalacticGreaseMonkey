@@ -5,20 +5,12 @@ This game will have a leaderboard that tracks the three highest scores (associat
 
 ## Authors
 
-- Zihao Xie = zxa43
 - Ryan = rat2 
 - Jason = xgill15x / jga132 
-- Luan = luan_nguyen_3@sfu.ca 
-
-
-## Demo
-
-https://csil-git1.cs.surrey.sfu.ca/CMPT276F22_Group1/project/-/tree/master/image
-
 
 ## Installation
 
-Install project with git
+Clone project with git
 
 $ git clone https://csil-git1.cs.surrey.sfu.ca/CMPT276F22_Group1/project.git
 

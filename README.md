@@ -14,5 +14,4 @@ Clone project with git
 $ git clone https://csil-git1.cs.surrey.sfu.ca/CMPT276F22_Group1/project.git
 
 Use jdk-14.0.2 and Maven to build the project
-```
     

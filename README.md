@@ -6,6 +6,7 @@ This game will have a leaderboard that tracks the three highest scores (associat
 ## Authors
 
 - Jason = xgill15x / jga132 
+- Ryan = rat2
 
 ## Installation
 

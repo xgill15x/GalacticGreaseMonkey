@@ -1,4 +1,4 @@
-# Galactic Grease Monkey
+# Galactic Grease Monkey 🐒🚀
 
 ## Objective
 This game will have a leaderboard that tracks the three highest scores (associated with the different difficulty levels) achieved by playing. In order to achieve the highest score possible, the player can do three things to add to their score. The player must collect all spaceship parts in a given round, collect as many diamonds as they can before they disappear, and stay in the round for as long as they can until they deem it’s too dangerous to leave without being mauled by aliens. 

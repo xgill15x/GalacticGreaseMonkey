@@ -7,11 +7,6 @@ In a given round, the spaceship parts will remain static and be placed on a cell
 
 The three highest scores will be displayed on the menu page of our game, toggled by '1', '2', & '3'. There will be three difficulties for the game and if the player’s score turns negative before they reach the winning doors, they lose the game.
 
-
-## Authors
-- Jason = xgill15x / jga132 
-- Ryan = rat2
-
 ## Installation
 
 Use jdk-14.0.2 and Maven to build the project
